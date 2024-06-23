@@ -19,6 +19,6 @@ My name’s Kevin. I’m an autodidact software developer, speaker and blogger. 
 
 # Latest blog posts
 
-[LazyVim – Stable Productivity with Neovim](http://kmckelvin.com/blog/2024/06/lazyvim-stable-productivity-with-neovim/)
-[Can Linux or Windows replace my macOS setup?](https://kmckelvin.com/blog/2020/01/can-linux-or-windows-replace-my-macos-setup/)
-[ActiveRecord Callbacks and the Single Responsibility Principle](https://kmckelvin.com/blog/2016/02/activerecord-callbacks-and-the-single-responsibility-principle/)
+- [LazyVim – Stable Productivity with Neovim](http://kmckelvin.com/blog/2024/06/lazyvim-stable-productivity-with-neovim/)
+- [Can Linux or Windows replace my macOS setup?](https://kmckelvin.com/blog/2020/01/can-linux-or-windows-replace-my-macos-setup/)
+- [ActiveRecord Callbacks and the Single Responsibility Principle](https://kmckelvin.com/blog/2016/02/activerecord-callbacks-and-the-single-responsibility-principle/)
