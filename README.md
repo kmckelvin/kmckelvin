@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi 👋
 
 <!--
 **kmckelvin/kmckelvin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+My name’s Kevin. I’m an autodidact software developer, speaker and blogger. I’m the CTO with the talented team at [Resource Guru](https://resourceguruapp.com) where we build the best team scheduling tool on the web 🤩. I’ve been working remotely full time since 2016. I live in Newcastle upon Tyne, UK, having previously worked as a Lead Ruby and JavaScript developer at [Platform45](https://platform45.com) in Johannesburg, South Africa.
+
+# Latest blog posts
+
+[LazyVim – Stable Productivity with Neovim](http://kmckelvin.com/blog/2024/06/lazyvim-stable-productivity-with-neovim/)
+[Can Linux or Windows replace my macOS setup?](https://kmckelvin.com/blog/2020/01/can-linux-or-windows-replace-my-macos-setup/)
+[ActiveRecord Callbacks and the Single Responsibility Principle](https://kmckelvin.com/blog/2016/02/activerecord-callbacks-and-the-single-responsibility-principle/)
